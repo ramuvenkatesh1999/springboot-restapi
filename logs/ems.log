@@ -2805,3 +2805,4 @@ Identify and stop the process that's listening on port 8088 or configure this ap
 2024-06-11 23:06:39 INFO  [/elements]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
 2024-06-11 23:06:39 INFO  DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
 2024-06-11 23:06:39 INFO  DispatcherServlet:547 - Completed initialization in 3 ms
+2024-06-12 01:14:31 WARN  HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m22s240ms703µs900ns).
